@@ -752,8 +752,6 @@ class MWSClient{
             }
         }
 
-        dump($query);
-
         try{
 
             $headers = [
